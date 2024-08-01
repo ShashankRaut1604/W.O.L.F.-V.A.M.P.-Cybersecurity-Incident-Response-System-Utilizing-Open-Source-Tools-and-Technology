@@ -1,5 +1,6 @@
-# Cyber-Security-Incident-Response-System
+# W.O.L.F. V.A.M.P.: Cybersecurity Incident Response System Utilizing Open Source Tools and Technology
 
+W.O.L.F.: Watchdog Operations for Lethal Frameworks ; V.A.M.P.: Vulnerability Assessment and Mitigation Protocol
 Absolutely, here's the updated project description for GitHub incorporating the "in progress" status and your final year BTech project details:
 
 **Project Title:** Cost-Effective Intrusion Detection and Prevention System (IDS/IPS) for Enhanced Cybersecurity (**In Progress**)
